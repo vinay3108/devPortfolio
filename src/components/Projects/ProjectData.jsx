@@ -1,0 +1,33 @@
+
+export const ProjectData=[
+    {
+        link:"#",
+        img:'/images/viewers-disney.png',
+        video:'/videos/1564674844-disney.mp4',
+        category:'full-stack'
+    },
+    {
+        link:"#",
+        img:'/images/viewers-pixar.png',
+        video:'/videos/1564676714-pixar.mp4',
+        category:'frontend'
+    },
+    {
+        link:"#",
+        img:'/images/viewers-marvel.png',
+        video:'/videos/1564676115-marvel.mp4',
+        category:'backend'
+    },
+    {
+        link:"#",
+        img:'/images/viewers-starwars.png',
+        video:'/videos/1608229455-star-wars.mp4',
+        category:'frontend'
+    },
+    {
+        link:"#",
+        img:'/images/viewers-national.png',
+        video:'/videos/1564676296-national-geographic.mp4',
+        category:'full-stack'
+    },
+]
